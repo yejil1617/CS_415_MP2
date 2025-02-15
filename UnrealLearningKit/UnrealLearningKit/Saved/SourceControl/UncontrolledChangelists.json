@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/yejilim2/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"C:/Users/yejilim2/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Maps/MyLevel.umap",
+				"C:/Users/yejilim2/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Robots/Blueprints/Widgets/WB_Healthbar.uasset",
+				"C:/Users/yejilim2/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"C:/Users/yejilim2/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Robots/Blueprints/Widgets/WBP_Restart.uasset",
+				"C:/Users/yejilim2/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Maps/NewWorld.umap"
+			]
+		}
+	]
+}
